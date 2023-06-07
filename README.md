@@ -7,7 +7,7 @@ GAME HPP AND CPP - our basic game loop calling various render functions as well 
 
 CMP - some code snippets of the components related to the graphical engine used in the ECS.
 
-ENGINE - The engine. Consists of the basic architecture in C++ for cameras,model, texture and shader reading and loading; lights,a few framebuffer and UI shaders, instancing, polygon jittering, cubemaps, text rendering, bone animations and imGui integration.
+ENGINE - The engine. Consists of the basic architecture in C++ for cameras,model, texture and shader reading and loading; lights,a few framebuffer and UI shaders, instancing, polygon jittering, cubemaps, text rendering, bone animations, frustum culling and imGui integration.
 
 MAN - Folder with the State Manager. In the complete repository it also includes the whole ECS.
 
