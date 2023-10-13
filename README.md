@@ -13,6 +13,9 @@ MAN - Folder with the State Manager. In the complete repository it also includes
 
 SYS - Some code snippers of the systems used in the ECS.
 
+You can check some gameplay and the executables here: 
+https://pop-corn-games.itch.io/into-the-crops
+
 
 
 
